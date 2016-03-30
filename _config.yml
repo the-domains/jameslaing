@@ -1,0 +1,28 @@
+name: jameslaing
+favicon: null
+layout_spectrum: 0.4542621255386621
+typography_spectrum: 0.2803408184554428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5555252006743103
+  lightness: 0.9490165708120912
+  saturation: 0.7152663166634738
+  rhythmicContrast: 0.3220229735597968
+purpose: []
